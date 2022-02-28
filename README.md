@@ -32,7 +32,7 @@
 
   
 
-  ![](C:\Users\Reginaldo\Documents\dev_git_dio\dio-desafio-github-primeiro-repositorio\pasta de estudo\papel.jpg)
+  ![papel](https://user-images.githubusercontent.com/100533949/155993727-95f59251-bbf9-4a8c-ad9a-26660e14a3e7.jpg)
 
   
 
