@@ -50,9 +50,15 @@
   | A    | 4,0 a 4,8           | 5,0       | 105 a 125               |
   | B    | 2,1 a 3,0           | 3,0       | 150 a 150               |
   | C    | 3,2 a 3,9           | 4,0       | 120 a 145               |
-  | E    | 1,0 a 1,8           | 1,5       | 290 a 320               |
+  | E    | 1,0 a 1,8           | 1,5       | 290 a 320git            |
 
   
+
+  
+
+  ###### Para mais informações e interesse abaixo tem link de uma revista sobre o mercado de papelão ondulado.
+
+  [](http://www.revistaopapel.org.br/)
 
   
 
