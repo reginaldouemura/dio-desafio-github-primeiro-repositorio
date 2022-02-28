@@ -9,7 +9,6 @@
 
 ##       1.EMBALAGEM DE PAPELÃO ONDULADO
 
-#### 											Introdução
 
 	###### A embalagem por definição é elemento que protege o produto no transporte de sua movimentação, transporte e armazenagem, até o seu destino ou ao usuário final.
 
@@ -58,7 +57,7 @@
 
   ###### Para mais informações e interesse abaixo tem link de uma revista sobre o mercado de papelão ondulado.
 
-  [](http://www.revistaopapel.org.br/)
+  http://www.revistaopapel.org.br
 
   
 
